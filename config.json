@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Write and run unit tests using pytest to verify your Python functions work correctly. Learn to test normal cases, edge cases, and error handling.",
+      "path": "assignments/unit-testing-pytest",
+      "dueDate": "2026-06-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
